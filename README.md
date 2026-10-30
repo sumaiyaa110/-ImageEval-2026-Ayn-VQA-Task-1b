@@ -1,6 +1,10 @@
-# Nile Nexus at ImageEval 2026 Shared Tasks: Single-Choice Reformulation and Confidence-Calibrated Refinement for Culturally Grounded Hallucination Detection
+## Nile Nexus at ImageEval 2026 Shared Tasks: 
+### Single-Choice Reformulation and Confidence-Calibrated Refinement for Culturally Grounded Hallucination Detection
 
-**Authors:** Sumaiya Zaman, Miftahul Jannat Rishta  
+**Authors:** 
+- Sumaiya Zaman
+- Miftahul Jannat Rishta
+
 **Team:** Nile Nexus  
 **Venue:** Proceedings of The Fourth Arabic Natural Language Processing Conference: Shared Tasks, 2026, pp. 697–702  
 **Location:** Budapest, Hungary  
